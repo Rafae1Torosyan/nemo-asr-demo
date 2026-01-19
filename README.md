@@ -1,4 +1,3 @@
-```markdown
 # NeMo ASR Demo
 
 A minimal hands-on project demonstrating speech-to-text inference  
@@ -109,3 +108,4 @@ This project is intended as a small applied demo and learning exercise.
 It can be extended to include custom datasets, fine-tuning, or evaluation metrics.
 
 ---
+
